@@ -19,3 +19,6 @@ plot_preOF.m - This function plots the optimized model results with the on fract
 plot_OF.m - This function plots the optimized model results with the on fraction after applying the 10 second smoothing window. 
 plot_drift.m - This function plots the regions where the baroreflex is on and normalizes each region as in Figure 2 panel e. 
 
+Data: 
+
+Data are diveded into the following categories: spontaneously hypertensive rat (SHR) for males (M) and females (F) at 7, 10, and 15 wks; Wistar-Kyoto rat (WKY) for M and F at 7, 10, and 15wks; Dahl salt-sensitive rat (SS) for F on a high-fat (HF) diet and low-fat (LF) diets at 20 wks and M on a HF diet at 13 weeks; Dahl salt-resistant rat (SR) for M on a HF diet; and Sprague-Dawley rat (SD) for M at 8, 11 and 15 wks. In the 'denervation' folder, sino-aortic denervation was conducted on M and F SHRs and WKYs, and data was collected days 1, 3 and 7 after denervation.  
