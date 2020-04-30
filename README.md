@@ -1,5 +1,5 @@
 # IntermittentBaroreflex
-This repository contains code for the model-based data analysis described in the manuscript “Intermittent functioning of baroreflex contributes to the etiology of hypertension in spontaneously hypertensive rats” by Feng et al.. The code is as follows: 
+This repository contains code for the model-based data analysis described in the manuscript “Intermittent functioning of baroreflex contributes to the etiology of hypertension in spontaneously hypertensive rats” by Gu et al.. The code is as follows: 
 
 Drivers: 
 
